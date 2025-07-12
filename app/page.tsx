@@ -764,7 +764,7 @@ export default function PromptBoxApp() {
             >
               Julian
             </a>{" "}
-            · DevDrops {new Date().getFullYear()}
+            · PromptboxUI {new Date().getFullYear()}
           </p>
           <div className="mt-4 flex justify-center gap-4 text-slate-400 dark:text-slate-500">
             <a
